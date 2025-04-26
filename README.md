@@ -1,3 +1,7 @@
+![Screenshot 2025-04-26 183514](https://github.com/user-attachments/assets/a1019601-cb7c-4662-b777-e1ff81f2944c)
+![Screenshot 2025-04-26 183415](https://github.com/user-attachments/assets/7eede572-9060-4715-b2d0-348f1fadd988)
+![Screenshot 2025-04-26 183332](https://github.com/user-attachments/assets/a71fce7b-4d6a-4d8f-a04c-79047c275f0b)
+![Screenshot 2025-04-26 183257](https://github.com/user-attachments/assets/56816ecb-d741-4a75-8a77-fd6d5f37f678)
 # aws-lab3-vpc-subnets
 AWS Lab 3 - Build a VPC with Public and Private Subnets. Created Public and Private Subnets, configured routing, launched EC2 instances, and connected via SSH.
 AWS Lab 3: Build a VPC with Public and Private Subnets
